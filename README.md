@@ -1,10 +1,10 @@
-### Hey, I'm Emanuel Marques! 👋
-- 💼 I’m currently working on Technical Support Analyst
-- 📚 I’m currently learning Web Programming Back-End
-- 📫 How to reach me: devemanuelmarques@gmail.com
+### Olá! 👋
+- 💼 Atualmente estou trabalhando como Analista de Suporte Técnico
+- 📚 Estou aprendendo Programação Web Back-End
+- 📫 Como chegar até mim: devemanuelmarques@gmail.com
 
-🇧🇷 Born in Palmas - PR, Brazil <br>
-🇧🇷 Living in Concórdia - SC, Brazil <br>
+🇧🇷 Nasci em Palmas - PR, Brazil <br>
+🇧🇷 Morando em Concórdia - SC, Brazil <br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Emanuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
