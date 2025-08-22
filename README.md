@@ -1,9 +1,8 @@
 ### Olá! 👋
-- 💼 Atualmente estou trabalhando como Analista de Suporte Técnico
-- 📚 Estou aprendendo Programação Web Back-End
-- 📫 Como chegar até mim: devemanuelmarques@gmail.com
-
-🇧🇷 Nasci em Palmas - PR, Brazil <br>
+-  Do marketing ao TI 
+-  Cybersec
+- emanuelmarquescontato2@gmail.com
+- 
 🇧🇷 Morando em Concórdia - SC, Brazil <br>
 
 <div style="display: inline_block"><br>
